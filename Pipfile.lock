@@ -104,15 +104,6 @@
             "markers": "python_version >= '3.9'",
             "version": "==2.6.7"
         },
-        "isort": {
-            "hashes": [
-                "sha256:567954102bb47bb12e0fae62606570faacddd441e45683968c8d1734fb1af892",
-                "sha256:75d9d8a1438a9432a7d7b54f2d3b45cad9a4a0fdba43617d9873379704a8bdf1"
-            ],
-            "index": "pypi",
-            "markers": "python_full_version >= '3.9.0'",
-            "version": "==6.0.0"
-        },
         "mypy-extensions": {
             "hashes": [
                 "sha256:4392f6c0eb8a5668a69e23d168ffa70f0be9ccfd32b5cc2d26a34ae5b844552d",
