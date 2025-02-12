@@ -21,10 +21,10 @@ Not at the moment due to these reasons:
 1. Just install `pypinyin` using pip since that is currently the only dependency.
 2. Run `python main.py`.
 
-Once you've completed either of these steps, a `output_folder` folder should appear in the project directory that contains all of the generated langauge pack. Pick the one with the locale that you prefer and drag it into the Minecraft resource pack folder. 
+Once you've completed either of these steps, a `output_folder` folder should appear in the project directory that contains all of the generated language pack. Pick the one with the locale that you prefer and drag it into the Minecraft resource pack folder.
 
 # Possible future features:
 - More native language options other than American English. For example: a native Spanish speaker could generate a language pack that displays Both Chinese and Spanish.
-- More language learning options other than Mandarin Chinese. Potentially all Minecraft languages could be supported (after removing the pinyin output). 
+- More language learning options other than Mandarin Chinese. Potentially all Minecraft languages could be supported (after removing the pinyin output).
 - A custom format option. This would allow you to hide Pinyin or English to make the text shorter.
 - The resource pack could be autoinstalled.

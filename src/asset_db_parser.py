@@ -1,7 +1,7 @@
-from dataclasses import dataclass
 import json
 import logging
 import os
+from dataclasses import dataclass
 
 logger = logging.getLogger(__name__)
 

@@ -7,6 +7,10 @@ name = "pypi"
 pypinyin = "*"
 
 [dev-packages]
+pre-commit = "*"
+black = "*"
+isort = "*"
+codespell = "*"
 
 [requires]
 python_version = "3.12"

@@ -1,6 +1,7 @@
 import json
 import os
-from src.text_utils import add_pinyin, add_indexes_to_format_strings, contains_chinese
+
+from src.text_utils import add_indexes_to_format_strings, add_pinyin, contains_chinese
 
 
 def _generate_language_file(
